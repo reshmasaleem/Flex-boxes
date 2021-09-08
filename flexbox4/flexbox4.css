@@ -1,0 +1,24 @@
+.flex-container {
+    display: flex;
+    gap: 20px; 
+    background-color: white; 
+    padding: 10px;
+  }
+  
+  .flex-container > .box1 {
+    background-color: black;
+    padding: 300px 140px ; 
+    
+  }
+  .flex-container > .box2 {
+      background-color: black;
+      padding:90px 60px ; 
+  }
+  
+  
+  
+  
+  
+  
+  
+  
