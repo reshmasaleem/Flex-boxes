@@ -1,0 +1,58 @@
+.flex-container {
+    display: inline-flex;
+     gap: 20px; 
+    background-color: white; 
+    padding: 10px;
+  }
+  .flex-container2 {
+    display: flex;
+     gap: 20px; 
+    background-color: white;
+    padding: 10px;
+   
+  }
+ .flex-container3 {
+     display: flex; 
+     gap: 20px;  
+     background-color: white; 
+     padding: 10px;
+   
+  }
+    
+  
+.box1 {
+    background-color: black;
+    padding: 50px 130px; 
+    
+  }
+.box2 {
+      background-color: black;
+      padding: 100px 150px; 
+      
+ }
+  
+.box3 {
+      background-color: black;
+      padding:100px 30px; 
+     
+  }
+.box4 {
+    background-color: black;
+    padding: 200px 50px; 
+ }
+.box5 {
+    background-color: black;
+    padding: 200px 50px; 
+ }
+/* .box6 { */
+    /* background-color: black; */
+    /* padding: 70px 50px;  */
+ /* } */
+/* .box7 { */
+    /* background-color: black; */
+    /* padding: 50px 50px;  */
+ /* } */
+/* .box8 { */
+    /* background-color: black; */
+    /* padding: 50px 50px;  */
+ /* } */
